@@ -1,5 +1,5 @@
 # Descripción y fundamentación de la app    
-El objetivo de esta app es mostrar una versión funcional de cómo se puede aplicar la metodología y herramientas de process mining al análisis de datos legales (en este caso datos de procesos judiciales)
+El objetivo de esta app es mostrar una versión funcional (de prueba) de cómo se puede aplicar la metodología y herramientas de process mining al análisis de datos legales (en este caso datos de procesos judiciales)
 La app consiste en un tablero con diferentes métricas y gráficos que permiten obtener un entendimiento rápido y visual de algunas variables de los procesos judiciales como por ejemplo:    
 - Cantidad de actos procesales
 - Distribución de casos según diferentes categorías de análisis    
